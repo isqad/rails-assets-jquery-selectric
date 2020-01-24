@@ -1,0 +1,37 @@
+{
+  "name": "rails-assets-jquery-selectric",
+  "downloads": null,
+  "version": "1.13.0",
+  "version_downloads": null,
+  "platform": "ruby",
+  "authors": "rails-assets.org",
+  "info": "Fast, simple and light jQuery plugin to customize HTML selects",
+  
+  "metadata": {
+
+  },
+  "sha": null,
+  "project_uri": "http://selectric.js.org/",
+  "gem_uri": null,
+  "homepage_uri": "http://selectric.js.org/",
+  "wiki_uri": null,
+  "documentation_uri": null,
+  "mailing_list_uri": null,
+  "source_code_uri": "http://selectric.js.org/",
+  "bug_tracker_uri": null,
+  "dependencies": {
+    "development": [
+    
+    
+    {
+      "name": "rails-assets-jquery",
+      "requirements": ">= 1.7.0"
+    },
+    
+    
+    ],
+    "runtime": [
+
+    ]
+  }
+}
